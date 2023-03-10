@@ -1,0 +1,39 @@
+.congcu{
+    list-style: none;
+    display: flex;
+    width: 900px ;
+    margin-left: auto;
+
+margin-right: auto;
+text-align: center;
+
+}
+ul.congcu li{
+    display:inline-block;
+}
+.thanhmenu{
+background-color: aqua;
+height:40px ;
+width:auto ;
+
+}
+ul.congcu a{
+    color: #fcf9f9;
+   text-decoration: none;
+text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+padding-top: 10px;
+display: block;
+display: block;
+font-family: 12;
+padding-top: 6px;
+padding-bottom: 6px;
+padding-right: 6px;
+padding-left: 6px;
+transition: 0,4s;
+}
+ul.congcu a:hover{
+background-color: blueviolet;
+padding-top:3px ;
+padding-bottom:12px  ;
+}

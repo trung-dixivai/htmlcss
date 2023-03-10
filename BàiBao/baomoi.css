@@ -1,0 +1,15 @@
+.smal_news_block{
+    display: flex;
+    width: 400px ;
+}
+.smal_news_block .left {  width :150px;
+    margin-right: 10px;
+}
+
+.smal_news_block .right{ 
+
+width: 200px ;
+}
+img{
+    width: 100%;
+}
